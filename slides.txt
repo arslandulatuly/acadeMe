@@ -1,0 +1,214 @@
+
+--- Page 1 ---
+EnterAll InfoSec
+Solution
+Growing an Ethical Hacking Business
+Presented by Nonnie, Shane, Max,
+Jimmy, and Aslan
+
+--- Page 2 ---
+Background
+Anand Lakshman
+● Small Training Institute ● Lower-Middle Class
+● Ace Ethical Hacker ● Computer Science
+Engineering Student
+● Motorola
+● 2007: Adobe Inc Award
+● MBA at IIMA
+
+--- Page 3 ---
+EnterAll InfoSec
+External Relationship
+Timeline The year of 2011-2012
+● Corporate Clients
+● Public Sector
+Setting India
+Undertakings (PSUs)
+● Government Institutions
+Internal Founder: Murali Lakshman
+Relationship Partner: Shankar Anand.
+Industry Information Security
+
+--- Page 4 ---
+Constraints
+Business Model
+Resource
+Development
+Market Education
+Limitation
+● Lucrative Niche ● Efficient team
+● Ethical
+○ Age
+Concerns
+● Cost allocation
+● Internships
+● Hackers Vs
+● Credibility ○ 5/team
+Corporate
+○ Word of
+Mouth ● Capital
+● Free Spirited
+○ B2B
+Hackers
+
+--- Page 5 ---
+Timeline
+2011 2012 2014
+EISS was First major client breach
+Expansion into
+founded in successfully
+training services
+Hyderabad, demonstrated security
+India. flaws.
+
+--- Page 6 ---
+Why important?
+The challenge of The opportunity
+Where would
+balancing to redefine
+hackers utilize
+business growth cybersecurity as a
+these skills
+with ethical proactive industry
+elsewhere?
+hacking values. rather than
+reactive.
+
+--- Page 7 ---
+Core Problems
+Client
+Acquisition
+Talent
+Gaining credibility
+Management
+in a skeptical
+Retaining ethical hackers
+market.
+driven by passion rather
+than salary.
+Scaling
+Financial
+Operations
+Constraints
+Transitioning from a
+Need for funding
+service-based to a
+without compromising
+solution-based business.
+company vision.
+
+--- Page 8 ---
+Breakdown Challenges
+Internal Factors External Factors
+Leadership: Founders’ lack of business Market Conditions: Increasing cybersecurity
+experience awareness but lack of trust in startups
+Operations: Difficulty in maintaining hacker Competition: Large antivirus firms & existing
+autonomy while ensuring deadlines. ethical hacking consultancies
+Financial: Bootstrapped funding model Cultural factors: Ethical hacking seen as a
+limits expansion potential “grey area” in India’s business environment
+
+--- Page 9 ---
+Connect To Challenge
+
+--- Page 10 ---
+Internal Solutions
+Solution 1 Solution 2 Solution 3
+Operational Issues Financial Constraints
+Lack of business
+experience
+Solution Solution
+- Adding matrix - Merge with
+Solution
+structure to university to adds
+- Adding
+ensure professionalism
+Managing
+expertise in and lets them
+Partner
+each project stand out from
+other programs,
+Loss of equity in
+Costs money, due to and source
+business, but has
+the additions to the potential workers
+someone to with
+team
+financial and
+business skills to
+scale
+
+--- Page 11 ---
+Ethical Hacking Universities
+
+--- Page 12 ---
+Matrix Structure
+
+--- Page 13 ---
+External Solutions
+Solution 1 Solution 2 Solution 3
+Scaling B2B Training Subscription Based
+Hybrid Model -Consulting
+Cyber Security
++SaaS Security
+Pros: Recurring
+revenue stream, brand Pros: Predictable Pros: Combines
+credibility, scalable. Income, Long Term high-touch service with
+client relationships
+scalable products
+Cons: Competitive
+market, requires Cons: High upfront Cons: Requires dual
+partnerships, loss of cost, requires R&D expertise in service & tech
+equity investment development
+
+--- Page 14 ---
+Constant Breaches Through Different Industries
+
+--- Page 15 ---
+Recommendation
+1
+Hybrid Model - Consulting + SaaS Security Solutions
+● Scoring Matrix:
+○ Training & Certifications: 7/10 (profitable but competitive market).
+○ Subscription Security Model: 8/10 (high potential but requires investment).
+○ Hybrid Approach: 9/10 (balanced between service & product scalability).
+Automated Security Solutions – Over time, automating security functions via SaaS can reduce
+manual consulting hours, leading to higher margins.
+Continuous Innovation – SaaS platforms can be regularly updated with new security features,
+ensuring clients stay protected against evolving threats.
+Long-Term Contracts – Clients who start with consulting are more likely to sign multi-year SaaS
+agreements for ongoing protection.
+Scalability – Once developed, the software can be sold repeatedly without significant additional
+costs, increasing profit margins.
+
+--- Page 16 ---
+SWOT analysis
+Strengths Weaknesses
+● Ethical Hacking Knowledge ● Branding
+● Network ● Funding
+● Custom Tailored training ● Looking at small core team
+programs with hands on
+experience
+Opportunities Threats
+● Expanding into government ● Competition
+● Offering certification backed ● Risk of internal information
+training leaks from employees
+● Partnering with university ● Regulations regarding
+● Creating jobs creates hacking
+stronger brand
+
+--- Page 17 ---
+Key Takeaways
+Retaining skilled,
+EISS must scale while
+ethical hackers is
+building credibility.
+Cybersecurity is Strategic essential.
+growing necessity Positioning is Key
+Balancing Growth Talent & Ethical
+with Trust Challenges
+A hybrid model
+Ethical hacking is crucial as
+balances scalability,
+cyber threats rise.
+profitability, and
+sustainability
